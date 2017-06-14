@@ -1,10 +1,9 @@
 body {/*width:740px;*/
-	background: white;
-	font-family: verdana;
+	background: white   ;
 }
 .page-wrapper {width: 100%;
     max-width: 600px;
-    background-color: white;
+    background-color: white  ;
     margin:100px 300px 100px 300px;
 }
 
@@ -29,7 +28,9 @@ body {/*width:740px;*/
 .more 	{font-family: hoefler;
 	font-size:20px;
 }
-
+ul {
+    list-style-type: square;
+	color:#88B5D1;}
 
 text-transform: uppercase;}
 img {width: 500px;
