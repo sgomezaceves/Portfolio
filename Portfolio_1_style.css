@@ -1,0 +1,43 @@
+body {/*width:740px;*/
+	background: white;
+	font-family: verdana;
+}
+.page-wrapper {width: 100%;
+    max-width: 740px;
+    background-color: white;
+    margin:100px 300px 100px 300px;
+}
+
+.firstname {font-family: hoefler;
+	color: #88B5D1;
+	font-size: 84px;
+	text-align: left;
+	margin:0px;
+}
+
+.lastname {font-family: hoefler;
+	color: #88B5D1;
+	font-size: 43px;
+	margin:0px;
+}
+text-transform: uppercase;}
+img {width: 500px;
+	height: 333px;
+	align: center;
+	 }
+h2 {font-family: georgia;
+	color: #88B5D1;
+	font-weight: bold;
+	text-align: left;}
+
+a {text-decoration: none;
+	color: #88B5D1}
+a:hover {text-decoration: underline;
+		color: #88B5D1;
+		font-weight: bold;}
+p {color: #475E6C;
+	text-align: left}
+h4 {font-family: georgia;
+	color: #88B5D1;}
+p.contact {font-size: 12px;
+	line-height: 9px;}
