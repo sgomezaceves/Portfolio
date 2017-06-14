@@ -3,7 +3,7 @@ body {/*width:740px;*/
 	font-family: verdana;
 }
 .page-wrapper {width: 100%;
-    max-width: 740px;
+    max-width: 600px;
     background-color: white;
     margin:100px 300px 100px 300px;
 }
@@ -20,12 +20,23 @@ body {/*width:740px;*/
 	font-size: 43px;
 	margin:0px;
 }
+.about 	{font-family: hoefler;
+	font-size: 20px;
+}
+.work 	{font-family:hoefler;
+	font-size:20px;
+}
+.more 	{font-family: hoefler;
+	font-size:20px;
+}
+
+
 text-transform: uppercase;}
 img {width: 500px;
 	height: 333px;
 	align: center;
 	 }
-h2 {font-family: georgia;
+h2 {font-family: helvetica;
 	color: #88B5D1;
 	font-weight: bold;
 	text-align: left;}
@@ -37,7 +48,7 @@ a:hover {text-decoration: underline;
 		font-weight: bold;}
 p {color: #475E6C;
 	text-align: left}
-h4 {font-family: georgia;
+h4 {font-family: helvetica;
 	color: #88B5D1;}
 p.contact {font-size: 12px;
 	line-height: 9px;}
