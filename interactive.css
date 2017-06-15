@@ -1,11 +1,13 @@
 .image-frame {position:relative;
 	}
+
+.daffodil2 {position:absolute; 
+	top: 0px; 
+	left: 0px;
+	z-index: 1;}
+
 .daffodil1 {position: absolute;
 	top:0px
 	left:0px;
 	z-index: 2;
 }
-.daffodil2 {position:absolute; 
-	top: 0px; 
-	left: 0px;
-	z-index: 1; 
