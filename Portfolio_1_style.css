@@ -1,5 +1,5 @@
 body {/*width:740px;*/
-	background: white   ;
+	background: white;
 }
 .page-wrapper {width: 100%;
     max-width: 600px;
@@ -28,15 +28,15 @@ body {/*width:740px;*/
 .more 	{font-family: hoefler;
 	font-size:20px;
 }
-ul {
-    list-style-type: square;
+ul {margin-left:-40px;
+    list-style-type: none;
 	color:#88B5D1;}
 
 text-transform: uppercase;}
-img {width: 500px;
-	height: 333px;
-	align: center;
+
+img {width: 50px;
 	 }
+	 
 h2 {font-family: helvetica;
 	color: #88B5D1;
 	font-weight: bold;
@@ -48,8 +48,13 @@ a:hover {text-decoration: underline;
 		color: #88B5D1;
 		font-weight: bold;}
 p {color: #475E6C;
-	text-align: left}
+	}
 h4 {font-family: helvetica;
-	color: #88B5D1;}
+	color: #88B5D1;
+align:right;}
 p.contact {font-size: 12px;
-	line-height: 9px;}
+	line-height: 4px;
+	align:right;
+	}
+
+
