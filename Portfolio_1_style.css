@@ -1,36 +1,43 @@
 body {/*width:740px;*/
 	background: white;
+	background-image: url(http://www.zingerbugimages.com/backgrounds/white_marble_background_seamless.jpg);
+
 }
 .page-wrapper {width: 100%;
     max-width: 600px;
-    background-color: white  ;
-    margin:100px 300px 100px 300px;
+    margin:auto;
 }
 
-.firstname {font-family: hoefler;
-	color: #88B5D1;
+.firstname {font-family: sans-serif;
+	color: #475E6C;
 	font-size: 84px;
 	text-align: left;
 	margin:0px;
 }
 
-.lastname {font-family: hoefler;
-	color: #88B5D1;
-	font-size: 43px;
+.lastname {font-family: sans-serif;
+	color: #475E6C;
+	font-size: 45px;
 	margin:0px;
 }
-.about 	{font-family: hoefler;
-	font-size: 20px;
+.about 	{font-family: sans-serif;
+	font-size: 20px
+	font-weight: light;
+	color:#475E6C;
 }
-.work 	{font-family:hoefler;
+.work 	{font-family:sans-serif;
 	font-size:20px;
+	color:#475E6C;
 }
-.more 	{font-family: hoefler;
+.more 	{font-family: sans-serif;
 	font-size:20px;
+	color:#475E6C;
 }
-ul {margin-left:-40px;
+ul {color: #475E6C;
+	margin-left:-40px;
     list-style-type: none;
-	color:#88B5D1;}
+	font-family: sans-serif;
+	font-weight: lighter;}
 
 text-transform: uppercase;}
 
@@ -38,23 +45,29 @@ img {width: 50px;
 	 }
 	 
 h2 {font-family: helvetica;
-	color: #88B5D1;
+	color: #475E6C;
 	font-weight: bold;
 	text-align: left;}
 
 a {text-decoration: none;
-	color: #88B5D1}
+	color:#475E6C;}
 a:hover {text-decoration: underline;
-		color: #88B5D1;
+		color:white;
 		font-weight: bold;}
 p {color: #475E6C;
+	font-family: sans-serif;
+	font-weight: lighter;
 	}
-h4 {font-family: helvetica;
-	color: #88B5D1;
-align:right;}
-p.contact {font-size: 12px;
-	line-height: 4px;
+h2 {font-family: helvetica;
+	color: white;
 	align:right;
+	}
+p.interactive {font-size:18px;}
+
+p.contact {font-size: 18px;
+	line-height: 2px;
+	align:right;
+	color:#475E6C;
 	}
 
 
