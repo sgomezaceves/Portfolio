@@ -1,6 +1,6 @@
 body {/*width:740px;*/
 	background: white;
-	background-image: url(http://www.zingerbugimages.com/backgrounds/white_marble_background_seamless.jpg);
+	/*background-image: url(http://www.zingerbugimages.com/backgrounds/white_marble_background_seamless.jpg);*/
 
 }
 .page-wrapper {width: 100%;
@@ -52,14 +52,14 @@ h2 {font-family: helvetica;
 a {text-decoration: none;
 	color:#475E6C;}
 a:hover {text-decoration: underline;
-		color:white;
+		color:orange;
 		font-weight: bold;}
 p {color: #475E6C;
 	font-family: sans-serif;
 	font-weight: lighter;
 	}
 h2 {font-family: helvetica;
-	color: white;
+	color: #475E6C ;
 	align:right;
 	}
 p.interactive {font-size:18px;}
