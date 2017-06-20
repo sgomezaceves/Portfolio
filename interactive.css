@@ -1,4 +1,36 @@
+body {/*width:740px;*/
+	width: 600px
+	background: white;
+	/*background-image: url(http://www.zingerbugimages.com/backgrounds/white_marble_background_seamless.jpg);*/
+
+}
+.page-wrapper {width: 100%;
+    max-width: 600px;
+    margin:auto;
+}
+.me {width: 100%;
+	max-width:600px;
+	height:110px;
+	line-height: 65px;
+	padding-top: 25px;
+	}
+
+.firstname {font-family:georgia;
+	color: #475E6C;
+	font-size: 93px;
+	text-align: left;
+	margin:0px;
+	font-weight:lighter;
+}
+
+.lastname {font-family: georgia;
+	color: #475E6C;
+	font-size: 45px;
+	margin:0px;
+	font-weight: lighter;
+}
 .image-frame {position:relative;
+	max-width: 500px;
 	}
 
 .daffodil2 {position:absolute; 
@@ -11,3 +43,9 @@
 	left:0px;
 	z-index: 2;
 }
+p p {color: #475E6C;
+	font-family: sans-serif;
+	font-weight: lighter;
+	letter-spacing: 1.2px;
+	line-height: 20px;
+	}
