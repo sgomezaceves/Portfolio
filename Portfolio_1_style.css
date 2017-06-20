@@ -9,10 +9,19 @@ body {/*width:740px;*/
 }
 .me {width: 100%;
 	max-width:600px;
-	height:130px;
+	height:110px;
 	line-height: 65px;
 	padding-top: 25px;
+	/*border:3px solid orange;*/
 	}
+.contact{position: relative;
+			bottom:52px;
+			left:520px;
+			width:300px;
+			height:80px;
+			/*border:2px solid orange*/;
+		}
+
 .firstname {font-family:georgia;
 	color: #475E6C;
 	font-size: 93px;
@@ -27,12 +36,7 @@ body {/*width:740px;*/
 	margin:0px;
 	font-weight: lighter;
 }
-.trythis {
-    color: orange;
-    position: absolute;
-    left: 400px;
-    top: 117px;
-		}
+
 .about 	{font-family: sans-serif;
 	font-size: 20px
 	font-weight: light;
@@ -74,8 +78,9 @@ p {color: #475E6C;
 	font-family: sans-serif;
 	font-weight: lighter;
 	letter-spacing: 1.2px;
+	line-height: 20px;
 	}
 p.interactive {font-size:18px;}
 
-img {width:17px;
-	height:15px;}
+img {width:22px;
+	}
